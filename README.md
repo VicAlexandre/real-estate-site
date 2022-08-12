@@ -9,3 +9,4 @@ TO DO LIST: <br>
 -Spacing adjustments;<br>
 -Code refactoring.<br>
 *************************************
+Project currently hosted @ https://real-estate-site-cbwyf25kg-vicalexandre.vercel.app/
